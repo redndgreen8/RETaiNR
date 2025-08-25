@@ -159,7 +159,7 @@ xgboost>=1.5.0
 lightgbm>=3.2.0
 pandas>=1.3.0
 numpy>=1.21.0
-# Additional requirements in requirements.txt
+# Additional requirements in yaml file
 ```
 
 ### System Requirements
